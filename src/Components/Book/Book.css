@@ -1,0 +1,41 @@
+.book{
+    background-repeat: no-repeat;
+    background-size:100%;
+}
+.twin-container{
+    display: flex;
+   
+}
+.place-detail{
+    margin-top: 100px;
+}
+.place-detail .h1{
+    font-size: 200%;
+    font-weight: bold;
+}
+.card{
+    height: 450px;
+    width: 400px;
+    border: 1px solid gray;
+    margin-top: 100px;
+    padding: 10px;
+    margin-left: 180px;
+    margin-bottom: 200px;
+}
+.card input{
+    background-color: lightgray;
+    border: none;
+    height: 40px;
+    border-radius: 3px;
+}
+.bookBtn{
+    border: 1px solid yellow;
+    background-color: yellow;
+    color: black;
+    padding: 5px 126px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 15px;
+    
+
+}

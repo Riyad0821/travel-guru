@@ -1,0 +1,22 @@
+.home{
+    background-repeat: no-repeat;
+    background-size:100%;
+}
+.twin-container{
+    display: flex;
+}
+.place-detail{
+    margin-top: 150px;
+}
+.place-detail .h1{
+    font-size: 200%;
+    font-weight: bold;
+}
+.btn{
+    border: 1px solid yellow;
+      border-radius: 5px;
+      width: 100px;
+      background-color: yellow;
+      color: black;
+      font-weight: bold;
+}

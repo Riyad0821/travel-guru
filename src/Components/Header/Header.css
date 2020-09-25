@@ -1,0 +1,41 @@
+.header{
+    padding-top: 20px;
+}
+.nav{
+    margin: 0 100px;
+}
+.nav img{
+    height: 50px;
+}
+.nav li{
+    display: inline;
+    margin-left: 50px;
+  }
+  .searchBox{
+      background-color: transparent;
+      border: 2px solid white;
+      border-radius: 5px;
+      margin-top: 10px;
+      width: 250px;
+      text-align: center;
+      font-weight: bold;
+      color: white;
+  }
+  .btn{
+      border: 1px solid yellow;
+      border-radius: 5px;
+      width: 100px;
+      background-color: yellow;
+      color: black;
+      font-weight: bold;
+  }
+  .nav a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.877);
+    font-weight: bold;
+  }
+  .place-detail{
+      color: white;
+      width: 400px;
+      margin-left: 200px;
+  }

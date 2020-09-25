@@ -1,0 +1,39 @@
+.logBtn{
+    border: 1px solid yellow;
+      border-radius: 5px;
+      width: 350px;
+      background-color: yellow;
+      color: black;
+      font-weight: bold;
+      margin: 10px;
+}
+.login-card{
+    width: 390px;
+    height: 525px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 100px;
+    padding: 10px;
+}
+.card input{
+    margin: 10px;
+    width: 350px;
+}
+.fb-google{
+    margin-bottom: 200px;
+}
+.fglogo{
+    height:30px;
+    width: 30px;
+}
+.fgbtn{
+    background-color: transparent;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin: 5px 0px;
+}
+.card-label{
+    text-align: center;
+    font-weight: bold;
+}

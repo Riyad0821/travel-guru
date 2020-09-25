@@ -1,0 +1,21 @@
+.img{
+    width:250px;
+    height:200px;
+    padding: 10px;
+}
+.hotel-desc{
+    display: flex;
+    width: 500px;
+    height: 220px;
+    color: black;
+    padding: 10px;
+    color: black;
+    margin-bottom: 10px;
+    margin-left: 160px;
+}
+.desc-text{
+    padding: 15px 10px;
+}
+.text-gray{
+    color: gray;
+}
