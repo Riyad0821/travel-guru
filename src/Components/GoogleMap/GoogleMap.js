@@ -22,5 +22,5 @@ const GoogleMap = () => {
 };
 
 export default GoogleApiWrapper({
-    apiKey: ("AIzaSyC8OORvsizT-cYStuSJqumnpY7mtzpGbSw")
+    apiKey: ("jldskhakdfhjladhfjadhfjkhda")
   })(GoogleMap)
