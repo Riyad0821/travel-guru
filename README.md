@@ -1,5 +1,34 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Travel Guru
+An application used to get necessary information, make plan and book hotel for travellers.
+## [Live Website] (https://travel-guru-cb905.web.app/)
+
+## Project Status
+This project is currently in development. Travellers can find his/her choice and accomplishments. Functionality to sort by additional parameters is in progress.
+
+## Features
+* single-page web application for travelers, to discover information about places and hotels.
+* Authorization for users and admin panel & user can make a proper plan and book hotels.
+* Have exciting info and photos of different places.
+
+## Using Technologies and libraries
+1. React.js
+2. Bootstrap
+3. Firebase Authorization
+4. Firebase Hosting
+5. React-bootstrap
+6. React-router
+7. React-hook
+8. React-date-picker
+9. React-font-awesome
+10. etc
+
+
+## Project Screen Shot(s)
+![Landing page](https://user-images.githubusercontent.com/33195510/97540078-4c1f5f00-19ed-11eb-87ea-63dbae6dd1d8.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
